@@ -8,20 +8,13 @@ Some people like to jump in. Some people like to comprehend. I'm the later. So, 
 
 ## Things to learn
 
-- [-] [React](https://reactjs.org/docs/hello-world.html)
-- [-] [Redux](https://redux.js.org/introduction/core-concepts)
+- [ ] [React](https://reactjs.org/docs/hello-world.html)
+- [ ] [Redux](https://redux.js.org/introduction/core-concepts)
 - [x] [Kea](https://kea.js.org/docs/introduction/what-is-kea)
-- [p] TypeScript
-- [p] [Python](https://learnxinyminutes.com/docs/python/)
+- [ ] TypeScript
+- [ ] [Python](https://learnxinyminutes.com/docs/python/)
 - [ ] [Django](https://www.feldroy.com/products/two-scoops-of-django-3-x)
 - [ ] Clickhouse
-
-Legend
-
-- [ ] = not started
-- [p] = in-progress
-- [-] = skipped
-- [x] = completed
 
 ## Docs
 
