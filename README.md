@@ -35,6 +35,9 @@ characters are well formed. There is so much going on.
 - Pairing with Tim & Eric. They used devtools to examine network traffic, console.log, and I was able to ask specific questions.
 - Reading the kea docs. This is *clutch* to understand the frontend. This not hard and rather nice but you won't make progress without understanding Kea.
 - Creating a simple app with create-react-app with typescript support `yarn create react-app learn-kea-typescript --template typescript`
+
+> "Take care of yourself. There's no need to burnout in the first month."
+
 - Talking with Eltje (she’s incredible) about not getting burned out quickly
 
 > "So, what?!"
