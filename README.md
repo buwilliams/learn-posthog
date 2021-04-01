@@ -4,7 +4,7 @@ This repo is where I'm working on sample projects to help me learn the technical
 
 ## A note about learning styles
 
-Some people like to jump in. Some people like to comprehend. I'm the later. So, I approach learning by separating the various learning concerns and take them in turn.
+Some people like to jump in. Some people like to read the docs. I'm the later. So, I approach learning by separating the various learning concerns and take them in turn.
 
 ## Things to learn
 
