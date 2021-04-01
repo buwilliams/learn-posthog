@@ -47,3 +47,7 @@ characters are well formed. There is so much going on.
 > "So, what?!"
 
 - Often I felt anxious about the little amount of my daily contributions. Using the quote above really helps deal with this kind of anxiety. So what if I suck. I'm an expert and in time I'll be a great asset.
+
+> "When you are working, close your email and slack. No one is watching to see if you are online. In fact, it's the opposite."
+
+- Tim (CTO) told me this early on and it was liberating. It allowed me to think of my role as a true `async` open-source contributor. Do what needs to be done so that you can be the most effective.
