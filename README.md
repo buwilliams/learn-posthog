@@ -4,13 +4,21 @@ This repo is where I'm working on sample projects to help me learn the technical
 
 ## Things to learn
 
-- [x] React
-- [x] Redux
+
+- [-] [React](https://reactjs.org/docs/hello-world.html)
+- [-] [Redux](https://redux.js.org/introduction/core-concepts)
 - [x] [Kea](https://kea.js.org/docs/introduction/what-is-kea)
-- [ ] TypeScript
-- [-] [Python](https://learnxinyminutes.com/docs/python/)
+- [p] TypeScript
+- [p] [Python](https://learnxinyminutes.com/docs/python/)
 - [ ] [Django](https://www.feldroy.com/products/two-scoops-of-django-3-x)
 - [ ] Clickhouse
+
+Legend
+
+- [ ] = not started
+- [p] = in-progress
+- [-] = skipped
+- [x] = completed
 
 ## Docs
 
