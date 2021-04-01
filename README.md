@@ -8,8 +8,8 @@ Some people like to jump in. Some people like to comprehend. I'm the later. So, 
 
 ## Things to learn
 
-- [ ] [React](https://reactjs.org/docs/hello-world.html)
-- [ ] [Redux](https://redux.js.org/introduction/core-concepts)
+- [x] [React](https://reactjs.org/docs/hello-world.html)
+- [x] [Redux](https://redux.js.org/introduction/core-concepts)
 - [x] [Kea](https://kea.js.org/docs/introduction/what-is-kea)
 - [ ] TypeScript
 - [ ] [Python](https://learnxinyminutes.com/docs/python/)
