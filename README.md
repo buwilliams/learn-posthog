@@ -56,3 +56,7 @@ characters are well formed. There is so much going on.
 > "When you are working, close your email and slack. No one is watching to see if you are online. In fact, it's the opposite." - Tim, CTO
 
 - Tim told me this on the first or second day and it was liberating. It allowed me to think of my role as a true `async` open-source contributor. Do what needs to be done so that you can be the most effective.
+
+> Read the docs
+
+- For my learning style, this has been a **must**. I'm keeping a list of resources for learning I've used.
