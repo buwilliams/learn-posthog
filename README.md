@@ -22,7 +22,7 @@ Some people like to jump in. Some people like to read the docs. I'm the later. S
 
 - [Python via LearnXinYminutes](https://learnxinyminutes.com/docs/python/)
 - [Writing your first Django app](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
-- [Two Scoops of Django](https://www.feldroy.com/products/two-scoops-of-django-3-x)
+- [Two Scoops of Django (e-book)](https://www.feldroy.com/products/two-scoops-of-django-3-x)
 
 ## This Repo's Docs
 
