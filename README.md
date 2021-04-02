@@ -33,7 +33,10 @@ Some people like to jump in. Some people like to read the docs. I'm the later. S
 ## What has helped me
 
 First thing to remember is that, it's like beginning a book in the middle of a series where the 
-characters are well formed. There is so much going on.
+characters are well formed. It's fair to say, you have no idea what is going on. You can read 
+words and understand but not understand why they are being said.
+
+*My goal is to develop a solid mental model for the codebase.*
 
 > “You don’t care about the answer until you have the question.” - Unknown
 
