@@ -1,10 +1,10 @@
 # Learn PostHog's Tech Stack
 
-This repo is where I'm working on sample projects to help me learn the technical stack of PostHog. I'm an experienced developer but I haven't either used the technology or haven't used it in so many years I've forgotten most of it. So while I'm a great developer, I don't know these technologies. That's totally okay, they hired me with that in mind.
+This repo is where I'm working on sample projects to help me learn the tech stack at PostHog. I'm an experienced developer and new to most of PostHog's tech stack.
 
 ## A note about learning styles
 
-Some people like to jump in. Some people like to read the docs. I'm the later. So, I approach learning by separating the various learning concerns and take them in turn. My plan was simple, try to accomplish the task given to me for 50% of the time and spend 50% of the time learning the tech stack. Because 50% time on learning wasn't enough, I spent additional time outside of normal work hours reading e-books.
+Some people like to jump in. Some people like to read the docs. I'm the later. My plan is simple spend part of the time accomplishing work given to me and part of the time reading.
 
 ## Things to learn
 
