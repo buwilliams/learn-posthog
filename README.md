@@ -4,7 +4,7 @@ This repo is where I'm working on sample projects to help me learn the technical
 
 ## A note about learning styles
 
-Some people like to jump in. Some people like to read the docs. I'm the later. So, I approach learning by separating the various learning concerns and take them in turn. My plan was simple, try to accomplish the task given to me for 50% of the time and spend 50% of the time learning the tech stack. I also suplemented additional time outside of normal work hours.
+Some people like to jump in. Some people like to read the docs. I'm the later. So, I approach learning by separating the various learning concerns and take them in turn. My plan was simple, try to accomplish the task given to me for 50% of the time and spend 50% of the time learning the tech stack. Because 50% time on learning wasn't enough, I spent additional time outside of normal work hours reading e-books.
 
 ## Things to learn
 
