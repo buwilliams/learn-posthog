@@ -36,7 +36,7 @@ First thing to remember is that, it's like beginning a book in the middle of a s
 characters are well formed. There is so much going on.
 
 > “You don’t care about the answer until you have the question.”
-> -Unknown
+> Unknown
 
 - On my first day, I was given an assignment to work on. It began the process of showing me what I needed to learn. Struggling to complete the assignment helped me to *have the question* from the quote above.
 - Reading the [project structure doc](https://posthog.com/docs/project-structure)
@@ -46,7 +46,7 @@ characters are well formed. There is so much going on.
 - Creating a simple app with create-react-app with typescript support `yarn create react-app learn-kea-typescript --template typescript`
 
 > "Take care of yourself. There's no need to burnout in the first month."
-> - Eltje
+> Eltje
 
 - Eltje encouraged me to take care of myself, so I did.
 
@@ -56,6 +56,6 @@ characters are well formed. There is so much going on.
 - Often I felt anxious about my daily contributions. Using the quote above really helps deal with this kind of anxiety. So what if I suck?! I'm an expert and in time I'll be a great asset. This quote is taken from 
 
 > "When you are working, close your email and slack. No one is watching to see if you are online. In fact, it's the opposite."
-> - Tim, CTO
+> Tim, CTO
 
 - Tim told me this on the first or second day and it was liberating. It allowed me to think of my role as a true `async` open-source contributor. Do what needs to be done so that you can be the most effective.
