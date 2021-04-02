@@ -4,7 +4,7 @@ This repo is where I'm working on sample projects to help me learn the tech stac
 
 ## A note about learning styles
 
-Some people like to jump in. Some people like to read the docs. I'm the later. My plan is to spend part of the time accomplishing work given to me and part of the time reading.
+Some people like to jump in. Some people like to read the docs. I'm the later. My plan is to spend part of the time accomplishing work given to me and part of the time reading to supplement knowledge gaps.
 
 ## Things to learn
 
