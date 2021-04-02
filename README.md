@@ -50,7 +50,8 @@ characters are well formed. There is so much going on.
 
 > "So, what?!" - [Dare: The New Way to End Anxiety and Stop Panic Attacks](https://www.amazon.com/Dare-Anxiety-Stop-Panic-Attacks/dp/0956596258/) where "D" stands for defuse the anxiety by considering the worst and saying so what.
 
-- Often I felt anxious about my daily contributions. Using the quote above really helps deal with this kind of anxiety. So what if I suck?! I'm an expert and in time I'll be a great asset. This quote is taken from 
+- Often I felt anxious about my daily contributions. Using the quote above really helps deal with this kind of anxiety. So what if I fail to deliver these assignments timely?! I'm an expert and in time I'll be a great asset to PostHog.
+- Additionally, it's important to remember to trust the process. Being new (bad) at something isn't a great feeeling initially until you realize that it's a part of the process. Soon you'll be good. It's better to reframe and remember that you only get to have new eyes once. Plus, it's fun to learn new things.
 
 > "When you are working, close your email and slack. No one is watching to see if you are online. In fact, it's the opposite." - Tim, CTO
 
