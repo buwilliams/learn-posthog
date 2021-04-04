@@ -26,9 +26,9 @@ Some people like to jump in. Some people like to read the docs. I'm the later. M
 
 ## This Repo's Docs
 
-- [Create React App](docs/create_react_app.md)
 - [Kea](docs/kea.md)
 - [Python](docs/python.md)
+- [Django](docs/django.md)
 
 ## What has helped me
 
