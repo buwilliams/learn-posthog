@@ -16,7 +16,7 @@ Some people like to jump in. Some people like to read the docs. I'm the later. M
 - [ ] [Django](https://www.djangoproject.com/)
 - [ ] [Clickhouse](https://clickhouse.tech/)
 
-## Suggested learning order
+## Suggested learning roadmap
 
 1. [Setup your local dev environment](https://posthog.com/docs/developing-locally) and [Apple Silicon](https://github.com/PostHog/posthog/issues/2916)
 2. Ask your [PostHog Buddy](https://posthog.com/handbook/people/onboarding#posthog-buddy) for a product walk-thru. It's important to get to know the product you are building. I recommend doing this before you become deeply involved in it's internal design. This is a great time to think like our users will.
