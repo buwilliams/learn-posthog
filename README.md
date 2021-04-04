@@ -30,7 +30,13 @@ Some people like to jump in. Some people like to read the docs. I'm the later. M
 - [Python](docs/python.md)
 - [Django](docs/django.md)
 
-## What has helped me
+## What has helped me technically
+
+- [Setup local dev on M1 chip aka. Apple Silicon](https://github.com/PostHog/posthog/issues/2916)
+- [Navigating PostHog Source Code](https://posthog.com/docs/project-structure)
+- [Switch between Postgres and Clickhouse](https://github.com/PostHog/posthog/blob/master/posthog/api/__init__.py) - PostHog uses two databases. This means the same backend work needs to often be duplicated between the two databases since the query can look different. The link shows you where the swap takes place. This is an important feature to know about early on. My first PR was broke for Clickhouse but worked fine for Postgres.
+
+## What has helped me personally
 
 First thing to remember: starting a new job is like beginning a book in the middle of a 
 series where the characters are well formed and the story is far along. It's fair to say, 
