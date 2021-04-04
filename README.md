@@ -22,7 +22,7 @@ Some people like to jump in. Some people like to read the docs. I'm the later. M
 2. Ask your [PostHog Buddy](https://posthog.com/handbook/people/onboarding#posthog-buddy) for a product walk-thru. It's important to get to know the product you are building. I recommend doing this before you become deeply involved in it's internal design. This is a great time to view our product through the eyes of our uesrs.
 3. Learn [React](https://reactjs.org/docs/hello-world.html), [Redux](https://redux.js.org/introduction/core-concepts), and [Kea](https://kea.js.org/docs/introduction/what-is-kea) (if you've working in frontend before I suggest going directly to Kea)
 4. Take a brief overview of [Python](https://learnxinyminutes.com/docs/python/).
-5. Learn [Django](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
+5. Complete [Django Tutorial](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) and pick a copy of a great [Django book](https://www.feldroy.com/products/two-scoops-of-django-3-x).
 
 ## Great places to learn
 
