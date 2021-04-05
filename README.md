@@ -8,6 +8,12 @@ Some people like to jump in. Some people like to read the docs. I'm the later. M
 
 It's also important to note that whatever you learn needs to be reviewed several times. It doesn't matter what learning style you have because review is essential to learning from a nueroscientific perspective. If you create small exercises for yourself such as the projects I've created in this repo you'll do even better. The good news is that this process doesn't take up a extraordinary amount of time.
 
+## A word about mindset
+
+My mindset is one of wanting to get the most out of life. For me, in part, that means being excellent and taking full ownership of my career. Learning new material can be overwhelming not to mention difficult. But remember this: *it's worth it*! Investing in yourself makes for a better for capable version of you. Therefore, trust the difficult process of learning and elevate your skills. The future you will thank your past self for your hard work.
+
+> You get more than what you give.
+
 ## Tech to learn (in no particular order)
 
 - [x] [React](https://reactjs.org/docs/hello-world.html)
