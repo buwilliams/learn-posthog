@@ -2,9 +2,9 @@
 
 This repo is where I'm working on sample projects to help me learn the tech stack at PostHog. I'm an experienced developer and new to most of PostHog's tech stack and source code.
 
-## A note about learning styles
+## Notes about learning
 
-Some people like to jump in. Some people like to read the docs. I'm the later. My plan is to spend part of the time accomplishing work given to me and part of the time reading to supplement knowledge gaps.
+Some people like to jump in. Some people like to read the docs. I'm the later. My plan is to spend part of the time accomplishing work given to me and part of the time reading to supplement knowledge gaps. The point is to know your own learning style so that you can be effective.
 
 It's also important to note that whatever you learn needs to be reviewed several times. It doesn't matter what learning style you have because review is essential to learning from a nueroscientific perspective. If you create small exercises for yourself such as the projects I've created in this repo you'll do even better. The good news is that this process doesn't take up a extraordinary amount of time.
 
