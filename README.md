@@ -1,4 +1,4 @@
-# Learn PostHog's Tech Stack
+# Learn PostHog's Tech Stack and Source Code
 
 This repo is where I'm working on sample projects to help me learn the tech stack at PostHog. I'm an experienced developer and new to most of PostHog's tech stack.
 
