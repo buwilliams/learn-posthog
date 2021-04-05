@@ -42,12 +42,6 @@ My mindset is one of wanting to get the most out of life. For me, in part, that 
 - [Writing your first Django app](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) - I recommend reading Parts 1-5 of the 7 parts, skip 6+ since they are not relevent to PostHog. We do use Django built-in testing so part 5 is required reading.
 - [Two Scoops of Django (e-book)](https://www.feldroy.com/products/two-scoops-of-django-3-x)
 
-## This Repo's Docs
-
-- [Kea](docs/kea.md)
-- [Python](docs/python.md)
-- [Django](docs/django.md)
-
 ## What has helped me technically
 
 - [Setup local dev on M1 chip aka. Apple Silicon](https://github.com/PostHog/posthog/issues/2916)
@@ -89,3 +83,9 @@ why they are being said.
 
 - For my learning style, this has been a **must**. I'm keeping a list of resources for learning I've used.
 - I also spent time creating projects as you see in this repo. These helps me reenforce and consolidate the knowledge I was gaining.
+
+## This Repo's Docs
+
+- [Kea](docs/kea.md)
+- [Python](docs/python.md)
+- [Django](docs/django.md)
