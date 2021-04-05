@@ -44,7 +44,7 @@ It's also important to note that whatever you learn needs to be reviewed several
 
 - [Setup local dev on M1 chip aka. Apple Silicon](https://github.com/PostHog/posthog/issues/2916)
 - [Navigating PostHog Source Code](https://posthog.com/docs/project-structure)
-- [Switch between Postgres and Clickhouse](https://github.com/PostHog/posthog/blob/master/posthog/api/__init__.py) - PostHog uses two databases. This means the same backend work needs to often be duplicated between the two databases since the query can look different. The link shows you where the swap takes place. This is an important feature to know about early on. My first PR was broke for Clickhouse but worked fine for Postgres.
+- [Switch between Postgres and Clickhouse](https://github.com/PostHog/posthog/blob/master/posthog/api/__init__.py) - PostHog uses two databases. Often the same backend work will be duplicated between the two databases since the queries will be different. The link shows you where the swap takes place. This is an important feature to know about early on. My first PR was broke for Clickhouse but worked fine for Postgres.
 
 ## What has helped me personally
 
