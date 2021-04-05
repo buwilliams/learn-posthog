@@ -31,7 +31,7 @@ It's also important to note that whatever you learn needs to be reviewed several
 ### Python
 
 - [Python via LearnXinYminutes](https://learnxinyminutes.com/docs/python/)
-- [Writing your first Django app](https://docs.djangoproject.com/en/3.1/intro/tutorial01/)
+- [Writing your first Django app](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) - I recommend reading Parts 1-4 of the 7 parts since half of 4, 5, 6, 7 are not relevent to PostHog.
 - [Two Scoops of Django (e-book)](https://www.feldroy.com/products/two-scoops-of-django-3-x)
 
 ## This Repo's Docs
