@@ -25,14 +25,14 @@ It's also important to note that whatever you learn needs to be reviewed several
 3. [Review PostHog Project Structure](https://posthog.com/docs/project-structure)
 4. Learn [React](https://reactjs.org/docs/hello-world.html), [Redux](https://redux.js.org/introduction/core-concepts), and [Kea](https://kea.js.org/docs/introduction/what-is-kea) - If you're experienced with frontend frameworks I suggest going directly to Kea.
 5. Take a brief overview of [Python](https://learnxinyminutes.com/docs/python/).
-6. Complete [Django Tutorial 1-4 of 7 parts, skip 5+](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) and pick a copy of a great [Django book](https://www.feldroy.com/products/two-scoops-of-django-3-x).
+6. Complete [Django Tutorial 1-5 of 7 parts, skip 6+](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) and pick a copy of a great [Django book](https://www.feldroy.com/products/two-scoops-of-django-3-x).
 
 ## Great places to learn
 
 ### Python
 
 - [Python via LearnXinYminutes](https://learnxinyminutes.com/docs/python/)
-- [Writing your first Django app](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) - I recommend reading Parts 1-4 of the 7 parts since half of 4, 5, 6, 7 are not relevent to PostHog.
+- [Writing your first Django app](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) - I recommend reading Parts 1-5 of the 7 parts, skip 6+ since they are not relevent to PostHog. We do use Django built-in testing so part 5 is required reading.
 - [Two Scoops of Django (e-book)](https://www.feldroy.com/products/two-scoops-of-django-3-x)
 
 ## This Repo's Docs
