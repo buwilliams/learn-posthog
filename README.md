@@ -25,7 +25,7 @@ It's also important to note that whatever you learn needs to be reviewed several
 3. [Review PostHog Project Structure](https://posthog.com/docs/project-structure)
 4. Learn [React](https://reactjs.org/docs/hello-world.html), [Redux](https://redux.js.org/introduction/core-concepts), and [Kea](https://kea.js.org/docs/introduction/what-is-kea) - If you're experienced with frontend frameworks I suggest going directly to Kea.
 5. Take a brief overview of [Python](https://learnxinyminutes.com/docs/python/).
-6. Complete [Django Tutorial 1-5 of 7 parts, skip 6+](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) and pick a copy of a great [Django book](https://www.feldroy.com/products/two-scoops-of-django-3-x).
+6. Complete [Django Tutorial 1-5 of 7 parts, skip 6+](https://docs.djangoproject.com/en/3.1/intro/tutorial01/). If you're interested in learning more about Django, pick a copy of [Django book](https://www.feldroy.com/products/two-scoops-of-django-3-x). The company will happily pay for this since they [believe in training us to do our jobs with excellent](https://posthog.com/handbook/people/training). Great place to work, right?
 
 ## Great places to learn
 
