@@ -10,9 +10,9 @@ It's also important to note that whatever you learn needs to be reviewed several
 
 ## A word about mindset
 
-My mindset is one of wanting to get the most out of life. For me, in part, that means being excellent and taking full ownership of my career. Learning new material can be overwhelming not to mention difficult. But remember this: *it's worth it*! Investing in yourself makes for a better, more capable version of you. Therefore, trust the difficult process of learning and elevate your skills. The future you will thank your past self for your hard work.
-
 > You get more than what you give.
+
+My mindset is one of wanting to get the most out of life. For me, in part, that means being excellent and taking full ownership of my career. Learning new material can be overwhelming not to mention difficult. But remember this: *it's worth it*! Investing in yourself makes for a better, more capable version of you. Therefore, trust the difficult process of learning and elevate your skills. The future you will thank your past self for your hard work.
 
 ## Tech to learn (in no particular order)
 
