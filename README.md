@@ -53,6 +53,7 @@ My mindset is one of wanting to get the most out of life. For me, in part, that 
 - [Setup local dev on M1 chip aka. Apple Silicon](https://github.com/PostHog/posthog/issues/2916)
 - [Navigating PostHog Source Code](https://posthog.com/docs/project-structure)
 - [Switch between Postgres and Clickhouse](https://github.com/PostHog/posthog/blob/master/posthog/api/__init__.py) - PostHog uses two databases. Often the same backend work will be duplicated for these two databases since the queries will be different. The link shows you where the swap takes place. This is an important feature to know about early on. My first PR was broken for Clickhouse but worked fine for Postgres.
+- Subscribing to Posthog and Posthog.com on GitHub for all notifications via Email. Create a Gmail filter to archive and label them. This allows you to browse everything that is going on each day. It's a great place to get "news" and stay up-to-date. You can create more advanced filters as well, for example, a filter which adds a label for all the things you are directly involved in.
 
 ## What has helped me personally
 
