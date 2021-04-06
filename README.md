@@ -1,6 +1,6 @@
 # Learn PostHog
 
-A project to help me and others get up to speed on PostHog's tech stack and various bits of advice that make working at PostHog even better.
+A project to help me and others get up to speed on PostHog's tech stack and various bits of advice that make working on PostHog even better.
 
 ## Notes about learning
 
