@@ -23,6 +23,7 @@ My mindset is one of wanting to get the most out of life. For me, in part, that 
 - [ ] [Python](https://www.python.org/)
 - [ ] [Django](https://www.djangoproject.com/)
 - [ ] [Django Testing](https://docs.djangoproject.com/en/3.1/intro/tutorial05/)
+- [ ] [Pytest](https://docs.pytest.org/en/stable/getting-started.html)
 - [ ] [Clickhouse](https://clickhouse.tech/)
 
 ## Suggested learning roadmap
