@@ -1,6 +1,6 @@
 # Learn PostHog
 
-This repo is where I'm working on sample projects to help me learn the tech stack at PostHog. I'm an experienced developer and new to most of PostHog's tech stack and source code.
+A project to help me and others get up to speed on PostHog's tech stack and various bits of advice that make working at PostHog even better.
 
 ## Notes about learning
 
