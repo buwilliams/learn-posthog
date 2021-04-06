@@ -48,6 +48,13 @@ My mindset is one of wanting to get the most out of life. For me, in part, that 
 - [Writing your first Django app](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) - I recommend reading Parts 1-5 of the 7 parts, skip 6+ since they are not relevent to PostHog. We do use Django built-in testing so part 5 is required reading.
 - [Two Scoops of Django (e-book)](https://www.feldroy.com/products/two-scoops-of-django-3-x)
 
+### PostHog via James Hawkins, CEO
+
+- [Why we built our business in the first place](https://www.youtube.com/watch?v=TIxxIEEvczM)
+- [Open Source is Eating SaaS](https://www.youtube.com/watch?v=bh3j_9jVeqg)
+- [How we raised a $3M seed round a few weeks after starting our open source project](https://www.youtube.com/watch?v=lJ41-95Ey3w)
+- [Open source business models - your choices and how PostHog makes money](https://www.youtube.com/watch?v=L1Ovbzs7vyo)
+
 ## What has helped me technically
 
 - [Setup local dev on M1 chip aka. Apple Silicon](https://github.com/PostHog/posthog/issues/2916)
