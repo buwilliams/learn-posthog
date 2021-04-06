@@ -14,17 +14,22 @@ It's also important to note that whatever you learn needs to be reviewed several
 
 My mindset is one of wanting to get the most out of life. For me, in part, that means being excellent and taking full ownership of my career. Learning new material can be overwhelming not to mention difficult. But remember this: *it's worth it*! Investing in yourself makes for a better, more capable version of you. Therefore, trust the difficult process of learning and elevate your skills. The future you will thank you for your hard work.
 
-## Tech to learn (in no particular order)
+## Tech to learn
+
+### Backend
+
+- [x] [Python](https://www.python.org/)
+- [x] [Django](https://www.djangoproject.com/)
+- [x] [Django Testing](https://docs.djangoproject.com/en/3.1/intro/tutorial05/)
+- [x] [Pytest](https://docs.pytest.org/en/stable/getting-started.html)
+- [ ] [Clickhouse](https://clickhouse.tech/)
+
+### Frontend
 
 - [x] [React](https://reactjs.org/docs/hello-world.html)
 - [x] [Redux](https://redux.js.org/introduction/core-concepts)
 - [x] [Kea](https://kea.js.org/docs/introduction/what-is-kea)
 - [ ] [TypeScript](https://www.typescriptlang.org/)
-- [ ] [Python](https://www.python.org/)
-- [ ] [Django](https://www.djangoproject.com/)
-- [ ] [Django Testing](https://docs.djangoproject.com/en/3.1/intro/tutorial05/)
-- [ ] [Pytest](https://docs.pytest.org/en/stable/getting-started.html)
-- [ ] [Clickhouse](https://clickhouse.tech/)
 
 ## Suggested learning roadmap
 
