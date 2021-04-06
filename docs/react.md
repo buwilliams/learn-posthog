@@ -15,7 +15,7 @@ Uses destructured array assignment syntax
 
 `const [value, setValue] = useState(initialValue)`
 
-An updater function can be passed to the setter so that multiple updates can be called in sequence. The updater is a pure function which takes previous state and returns next.
+An updater function can be passed to the setter so that multiple updates can be called in sequence, or to merge-update the state via spreading if it's an object. The updater is a pure function which takes previous state and returns next.
 
 ```jsx
 // bad
@@ -44,7 +44,7 @@ function EffectExample() {
 	return (
 		<div>
 			<p>{value}</p>
-			<button onClick={() => setValue(value + 1)}>Use Effect</button>
+			<button onClick={() => setValue(value => value + 1)}>Use Effect</button>
 		</div>
 	)
 }
