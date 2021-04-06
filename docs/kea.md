@@ -1,4 +1,4 @@
-# Learn Kea and Typescript
+# Learn Kea
 
 ## Actions
 
