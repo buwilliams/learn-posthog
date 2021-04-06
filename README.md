@@ -101,5 +101,6 @@ why they are being said.
 ## This Repo's Docs
 
 - [Kea](docs/kea.md)
+- [React](docs/react.md)
 - [Python](docs/python.md)
 - [Django](docs/django.md)
