@@ -6,7 +6,7 @@ A project to help me and others get up to speed on PostHog's tech stack and vari
 
 Some people like to jump in. Some people like to read the docs. I'm the later. My plan is to spend part of the time accomplishing work given to me and part of the time reading to supplement knowledge gaps. The point is to know your own learning style so that you can be effective.
 
-It's also important to note that whatever you learn needs to be reviewed several times. It doesn't matter what learning style you have because review is essential to learning from a nueroscientific perspective. If you create small exercises for yourself such as the projects I've created in this repo you'll do even better. The good news is that this process doesn't take up a extraordinary amount of time.
+It's also important to note that whatever you learn needs to be reviewed several times. It doesn't matter what learning style you have because review is essential to learning from a neuroscience perspective. If you create small exercises for yourself such as the projects I've created in this repo you'll do even better. The good news is that this process doesn't take up a extraordinary amount of time.
 
 ## A word about mindset
 
@@ -31,10 +31,17 @@ My mindset is one of wanting to get the most out of life. For me, in part, that 
 - [x] [Kea](https://kea.js.org/docs/introduction/what-is-kea)
 - [ ] [TypeScript](https://www.typescriptlang.org/)
 
+### Our notes on specific tech
+
+- [Kea](docs/kea.md)
+- [React](docs/react.md)
+- [Python](docs/python.md)
+- [Django](docs/django.md)
+
 ## Suggested learning roadmap
 
 1. [Setup your local dev environment](https://posthog.com/docs/developing-locally) and [Apple Silicon](https://github.com/PostHog/posthog/issues/2916)
-2. Ask your [PostHog Buddy](https://posthog.com/handbook/people/onboarding#posthog-buddy) for a product walk-thru. It's important to get to know the product you are building. I recommend doing this before you become deeply involved in it's internal design. This is a great time to view our product through the eyes of our uesrs.
+2. Ask your [PostHog Buddy](https://posthog.com/handbook/people/onboarding#posthog-buddy) for a product walk-thru. It's important to get to know the product you are building. I recommend doing this before you become deeply involved in it's internal design. This is a great time to view our product through the eyes of our users.
 3. [Review PostHog Project Structure](https://posthog.com/docs/project-structure)
 4. Learn [React](https://reactjs.org/docs/hello-world.html), [Redux](https://redux.js.org/introduction/core-concepts), and [Kea](https://kea.js.org/docs/introduction/what-is-kea) - If you're experienced with frontend frameworks I suggest going directly to Kea.
 5. Take a brief overview of [Python](https://learnxinyminutes.com/docs/python/).
@@ -45,7 +52,7 @@ My mindset is one of wanting to get the most out of life. For me, in part, that 
 ### Python
 
 - [Python via LearnXinYminutes](https://learnxinyminutes.com/docs/python/)
-- [Writing your first Django app](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) - I recommend reading Parts 1-5 of the 7 parts, skip 6+ since they are not relevent to PostHog. We do use Django built-in testing so part 5 is required reading.
+- [Writing your first Django app](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) - I recommend reading Parts 1-5 of the 7 parts, skip 6+ since they are not relevant to PostHog. We do use Django built-in testing so part 5 is required reading.
 - [Two Scoops of Django (e-book)](https://www.feldroy.com/products/two-scoops-of-django-3-x)
 
 ### PostHog via James Hawkins, CEO
@@ -89,7 +96,7 @@ why they are being said.
 > "So, what?!" - [Dare: The New Way to End Anxiety and Stop Panic Attacks](https://www.amazon.com/Dare-Anxiety-Stop-Panic-Attacks/dp/0956596258/) where "D" stands for defuse the anxiety by considering the worst and saying so what.
 
 - Often I felt anxious about my daily contributions. Using the quote above really helps deal with this kind of anxiety. So what if I fail to deliver these assignments timely?! I'm an expert and in time I'll be a great asset to PostHog.
-- Additionally, it's important to remember to trust the process. Being new (bad) at something isn't a great feeeling initially until you realize that it's a part of the process. Soon you'll be good. It's better to reframe and remember that you only get to have new eyes once. Plus, it's fun to learn new things.
+- Additionally, it's important to remember to trust the process. Being new (bad) at something isn't a great feeling initially until you realize that it's a part of the process. Soon you'll be good. It's better to reframe and remember that you only get to have new eyes once. Plus, it's fun to learn new things.
 
 > "When you are working, close your email and slack. No one is watching to see if you are online. In fact, it's the opposite." - Tim, CTO
 
@@ -99,10 +106,3 @@ why they are being said.
 
 - For my learning style, this has been a **must**. I'm keeping a list of resources for learning I've used.
 - I also spent time creating projects as you see in this repo. These helps me reenforce and consolidate the knowledge I was gaining.
-
-## This Repo's Docs
-
-- [Kea](docs/kea.md)
-- [React](docs/react.md)
-- [Python](docs/python.md)
-- [Django](docs/django.md)
