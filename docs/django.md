@@ -17,5 +17,6 @@ parts of Django without needing to read an entire book to get it.
 - `python manage.py migrate` - performs all migrations
 - `python manage.py shell` - puts you in a Django ORM shell to play with the models on the command-line
 - `python manage.py createsuperuser` - creates super user for django admin app which comes by default with all Django projects, url `/admin`
+- `python manage.py test polls` - run tests for polls app
 
 ## Reading Django code
