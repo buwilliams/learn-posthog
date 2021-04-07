@@ -55,6 +55,10 @@ My mindset is one of wanting to get the most out of life. For me, in part, that 
 - [Writing your first Django app](https://docs.djangoproject.com/en/3.1/intro/tutorial01/) - I recommend reading Parts 1-5 of the 7 parts, skip 6+ since they are not relevant to PostHog. We do use Django built-in testing so part 5 is required reading.
 - [Two Scoops of Django (e-book)](https://www.feldroy.com/products/two-scoops-of-django-3-x)
 
+### Learn about the people who make PostHog
+
+- It's surprising how enjoyable and calming learning about team that makes PostHog can be. You'll find [all their bios here](https://posthog.com/handbook/company/team). It's well worth your time!
+
 ### PostHog via James Hawkins, CEO
 
 - [Why we built our business in the first place](https://www.youtube.com/watch?v=TIxxIEEvczM)
