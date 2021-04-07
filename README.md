@@ -105,4 +105,4 @@ why they are being said.
 > Read the docs
 
 - For my learning style, this has been a **must**. I'm keeping a list of resources for learning I've used.
-- I also spent time creating projects as you see in this repo. These helps me reenforce and consolidate the knowledge I was gaining.
+- I also spent time creating projects as you see in this repo which helped me consolidate the knowledge I was gaining.
