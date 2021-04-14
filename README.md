@@ -29,14 +29,22 @@ My mindset is one of wanting to get the most out of life. For me, in part, that 
 - [x] [React](https://reactjs.org/docs/hello-world.html)
 - [x] [Redux](https://redux.js.org/introduction/core-concepts)
 - [x] [Kea](https://kea.js.org/docs/introduction/what-is-kea)
-- [ ] [TypeScript](https://www.typescriptlang.org/)
+- [x] [TypeScript](https://www.typescriptlang.org/)
 
 ### Our notes on specific tech
 
+- [TypeScript](docs/typescript.md)
 - [Kea](docs/kea.md)
 - [React](docs/react.md)
 - [Python](docs/python.md)
 - [Django](docs/django.md)
+
+### Exercises
+
+Along with reading about any given programming language it's necessary to use that 
+knowledge. I've prepared exercises that will help you use the knowledge you are 
+learning. You can find [all the exercises here](docs/exercises/exercises.md) along 
+with advice for exercises in general.
 
 ## Suggested learning roadmap
 
