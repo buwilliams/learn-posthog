@@ -67,6 +67,7 @@ If you get discouraged, read [what has helped me personally](#what-has-helped-me
 - [React](docs/react.md)
 - [Python](docs/python.md)
 - [Django](docs/django.md)
+- [Docker via learn-docker](https://github.com/buwilliams/learn-docker)
 
 ### Exercises
 
