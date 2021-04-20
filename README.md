@@ -51,7 +51,7 @@ If you get discouraged, read [what has helped me personally](#what-has-helped-me
 - [x] [Pytest](https://docs.pytest.org/en/stable/getting-started.html)
 - [x] [Clickhouse](https://clickhouse.tech/) (enterprise database)
 - [x] [Celery](https://docs.celeryproject.org/en/stable/) (we use Redis as it's message broker)
-- [x] [Docker](https://github.com/buwilliams/learn-docker)
+- [x] [Docker](https://www.docker.com/)
 
 ### Frontend
 
