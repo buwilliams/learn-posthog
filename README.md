@@ -22,7 +22,9 @@ My mindset is one of wanting to get the most out of life. For me, in part, that 
 - [x] [Django](https://www.djangoproject.com/)
 - [x] [Django Testing](https://docs.djangoproject.com/en/3.1/intro/tutorial05/)
 - [x] [Pytest](https://docs.pytest.org/en/stable/getting-started.html)
-- [ ] [Clickhouse](https://clickhouse.tech/)
+- [x] [Clickhouse](https://clickhouse.tech/)
+- [x] [Celery](https://docs.celeryproject.org/en/stable/)
+- [x] [Docker](https://github.com/buwilliams/learn-docker)
 
 ### Frontend
 
@@ -58,6 +60,8 @@ with advice for exercises in general.
 ## Developer Workflow
 
 If you haven't already, it's worth your time to read [Contributing to PostHog](https://posthog.com/docs/contributing).
+
+IDE's we use: [vscode](https://code.visualstudio.com/) and [pycharm](https://www.jetbrains.com/pycharm/)
 
 ### Backend w/ Vscode
 
