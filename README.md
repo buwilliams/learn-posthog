@@ -41,42 +41,6 @@ If you get discouraged, read [what has helped me personally](#what-has-helped-me
 5. Take a brief overview of [Python](https://learnxinyminutes.com/docs/python/).
 6. Complete [Django Tutorial 1-5 of 7 parts, skip 6+](https://docs.djangoproject.com/en/3.1/intro/tutorial01/). If you're interested in learning more about Django, pick a copy of [Django book](https://www.feldroy.com/products/two-scoops-of-django-3-x). The company will happily pay for this since they [believe in training us to do our jobs with excellent](https://posthog.com/handbook/people/training). Great place to work, right?
 
-## Technologies to learn
-
-### Backend
-
-- [x] [Python](https://www.python.org/)
-- [x] [Django](https://www.djangoproject.com/)
-- [x] [Django Testing](https://docs.djangoproject.com/en/3.1/intro/tutorial05/)
-- [x] [Pytest](https://docs.pytest.org/en/stable/getting-started.html)
-- [x] [Clickhouse](https://clickhouse.tech/) (enterprise database)
-- [x] [Celery](https://docs.celeryproject.org/en/stable/) (we use Redis as it's message broker)
-- [x] [Docker](https://www.docker.com/)
-
-### Frontend
-
-- [x] [React](https://reactjs.org/docs/hello-world.html)
-- [x] [Redux](https://redux.js.org/introduction/core-concepts)
-- [x] [Kea](https://kea.js.org/docs/introduction/what-is-kea)
-- [x] [TypeScript](https://www.typescriptlang.org/)
-
-### Our notes on specific tech
-
-- [TypeScript](docs/typescript.md)
-- [Kea](docs/kea.md)
-- [React](docs/react.md)
-- [Python](docs/python.md)
-- [Django](docs/django.md)
-- [Docker via learn-docker](https://github.com/buwilliams/learn-docker)
-
-### Exercises
-
-Along with reading about any given programming language it's necessary to use that 
-knowledge. I've prepared exercises that will help you use the knowledge you are 
-learning. You can find [all the exercises here](docs/exercises/exercises.md) along 
-with advice for exercises in general.
-
-
 ## Developer Workflow
 
 If you haven't already, it's worth your time to read [Contributing to PostHog](https://posthog.com/docs/contributing).
@@ -134,6 +98,41 @@ good reason. While there are many benefits, below you'll find a few keys benefit
 Pycharm offers a try it for free 30-day trial. It's recommended that you use it for at least 
 that amount of time before you buy. I recommend watching [The Future of Programming](https://www.youtube.com/watch?v=8pTEmbeENF4) 
 that will blow your mind and perhaps give you a new perspective on tools like these.
+
+## Technologies to learn
+
+### Backend
+
+- [x] [Python](https://www.python.org/)
+- [x] [Django](https://www.djangoproject.com/)
+- [x] [Django Testing](https://docs.djangoproject.com/en/3.1/intro/tutorial05/)
+- [x] [Pytest](https://docs.pytest.org/en/stable/getting-started.html)
+- [x] [Clickhouse](https://clickhouse.tech/) (enterprise database)
+- [x] [Celery](https://docs.celeryproject.org/en/stable/) (we use Redis as it's message broker)
+- [x] [Docker](https://www.docker.com/)
+
+### Frontend
+
+- [x] [React](https://reactjs.org/docs/hello-world.html)
+- [x] [Redux](https://redux.js.org/introduction/core-concepts)
+- [x] [Kea](https://kea.js.org/docs/introduction/what-is-kea)
+- [x] [TypeScript](https://www.typescriptlang.org/)
+
+### Our notes on specific tech
+
+- [TypeScript](docs/typescript.md)
+- [Kea](docs/kea.md)
+- [React](docs/react.md)
+- [Python](docs/python.md)
+- [Django](docs/django.md)
+- [Docker via learn-docker](https://github.com/buwilliams/learn-docker)
+
+### Exercises
+
+Along with reading about any given programming language it's necessary to use that
+knowledge. I've prepared exercises that will help you use the knowledge you are
+learning. You can find [all the exercises here](docs/exercises/exercises.md) along
+with advice for exercises in general.
 
 ## Great places to learn
 
