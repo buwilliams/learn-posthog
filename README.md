@@ -55,6 +55,33 @@ with advice for exercises in general.
 5. Take a brief overview of [Python](https://learnxinyminutes.com/docs/python/).
 6. Complete [Django Tutorial 1-5 of 7 parts, skip 6+](https://docs.djangoproject.com/en/3.1/intro/tutorial01/). If you're interested in learning more about Django, pick a copy of [Django book](https://www.feldroy.com/products/two-scoops-of-django-3-x). The company will happily pay for this since they [believe in training us to do our jobs with excellent](https://posthog.com/handbook/people/training). Great place to work, right?
 
+## Backend: Typical developer workflow in vscode
+
+1. Create a git branch
+2. Start PostHog with `bin/start`
+3. Open app in Chrome and login
+4. Open Chrome devtools to network tab
+5. Navigate to scene (aka screen or page) and click on the area of interest
+6. Find network request in devtools and find request
+    - Request maps to ./posthog/api/*.py, i.e. http://localhost:8000/api/insight/funnel/?insight=FUNNELS -> ./posthog/api/insight.py:197
+7. Make code changes including tests
+    - Use [print()](https://realpython.com/python-print/) as needed for debugging
+    - Some developers prefer [Pycharm](https://www.jetbrains.com/pycharm/) for local development
+8. Run backend tests
+    - `bin/tests posthog` runs only posthog tests excluding ee tests
+    - `./bin/tests ee/clickhouse/queries/test/test_trends.py -k test_active_user_math` for specific tests
+9. Commit changes to git branch
+10. Open PR for review
+    - Include Github issue number `#1234` which Github will automatically link for you
+
+## Frontend: Typical developer workflow in vscode
+
+1. Same as backend 1-5
+2. Find frontend code, i.e. `frontend/src/scenes/insights/Insight.tsx`
+3. Use `console.log` liberally
+3. As of writing, there are no unit tests for the frontend although we do have integration tests for the frontend via Cypress
+4. Same as backend 9-10
+
 ## Great places to learn
 
 ### Python
