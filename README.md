@@ -12,9 +12,34 @@ It's also important to note that whatever you learn needs to be reviewed several
 
 > You get more than you give.
 
-My mindset is one of wanting to get the most out of life. For me, in part, that means being excellent and taking full ownership of my career. Learning new material can be overwhelming not to mention difficult. But remember this: *it's worth it*! Investing in yourself makes for a better, more capable version of you. Therefore, trust the difficult process of learning and elevate your skills. The future you will thank you for your hard work.
+My mindset is one of wanting to get the most out of life. For me, in part, that 
+means being excellent and taking full ownership of my career. Learning new 
+material can be overwhelming not to mention difficult. But remember this: 
+*it's worth it*! Investing in yourself makes for a better, more capable 
+version of you. Therefore, trust the difficult process of learning and elevate 
+your skills. The future you will thank you for your hard work.
 
-## Tech to learn
+If you get discouraged, read [what has helped me personally](#what-has-helped-me-personally) section.
+
+## Getting started
+
+### First goals
+
+1. Set up your dev environment and get comfortable with your IDE
+2. Get PostHog running locally on Postgres: [http://localhost:8000](http://localhost:8000)
+3. Successfully run PostHog tests: `bin/tests posthog` (which omits Clickhouse tests)
+4. Create your first PR and have it be approved
+
+### Suggested learning roadmap
+
+1. [Setup your local dev environment](https://posthog.com/docs/developing-locally) and [Apple Silicon](https://github.com/PostHog/posthog/issues/2916)
+2. Ask your [PostHog Buddy](https://posthog.com/handbook/people/onboarding#posthog-buddy) for a product walk-thru. It's important to get to know the product you are building. I recommend doing this before you become deeply involved in it's internal design. This is a great time to view our product through the eyes of our users.
+3. [Review PostHog Project Structure](https://posthog.com/docs/project-structure)
+4. Learn [React](https://reactjs.org/docs/hello-world.html), [Redux](https://redux.js.org/introduction/core-concepts), and [Kea](https://kea.js.org/docs/introduction/what-is-kea) - If you're experienced with frontend frameworks I suggest going directly to Kea.
+5. Take a brief overview of [Python](https://learnxinyminutes.com/docs/python/).
+6. Complete [Django Tutorial 1-5 of 7 parts, skip 6+](https://docs.djangoproject.com/en/3.1/intro/tutorial01/). If you're interested in learning more about Django, pick a copy of [Django book](https://www.feldroy.com/products/two-scoops-of-django-3-x). The company will happily pay for this since they [believe in training us to do our jobs with excellent](https://posthog.com/handbook/people/training). Great place to work, right?
+
+## Technologies to learn
 
 ### Backend
 
@@ -22,8 +47,8 @@ My mindset is one of wanting to get the most out of life. For me, in part, that 
 - [x] [Django](https://www.djangoproject.com/)
 - [x] [Django Testing](https://docs.djangoproject.com/en/3.1/intro/tutorial05/)
 - [x] [Pytest](https://docs.pytest.org/en/stable/getting-started.html)
-- [x] [Clickhouse](https://clickhouse.tech/)
-- [x] [Celery](https://docs.celeryproject.org/en/stable/)
+- [x] [Clickhouse](https://clickhouse.tech/) (enterprise database)
+- [x] [Celery](https://docs.celeryproject.org/en/stable/) (we use Redis as it's message broker)
 - [x] [Docker](https://github.com/buwilliams/learn-docker)
 
 ### Frontend
@@ -48,14 +73,6 @@ knowledge. I've prepared exercises that will help you use the knowledge you are
 learning. You can find [all the exercises here](docs/exercises/exercises.md) along 
 with advice for exercises in general.
 
-## Suggested learning roadmap
-
-1. [Setup your local dev environment](https://posthog.com/docs/developing-locally) and [Apple Silicon](https://github.com/PostHog/posthog/issues/2916)
-2. Ask your [PostHog Buddy](https://posthog.com/handbook/people/onboarding#posthog-buddy) for a product walk-thru. It's important to get to know the product you are building. I recommend doing this before you become deeply involved in it's internal design. This is a great time to view our product through the eyes of our users.
-3. [Review PostHog Project Structure](https://posthog.com/docs/project-structure)
-4. Learn [React](https://reactjs.org/docs/hello-world.html), [Redux](https://redux.js.org/introduction/core-concepts), and [Kea](https://kea.js.org/docs/introduction/what-is-kea) - If you're experienced with frontend frameworks I suggest going directly to Kea.
-5. Take a brief overview of [Python](https://learnxinyminutes.com/docs/python/).
-6. Complete [Django Tutorial 1-5 of 7 parts, skip 6+](https://docs.djangoproject.com/en/3.1/intro/tutorial01/). If you're interested in learning more about Django, pick a copy of [Django book](https://www.feldroy.com/products/two-scoops-of-django-3-x). The company will happily pay for this since they [believe in training us to do our jobs with excellent](https://posthog.com/handbook/people/training). Great place to work, right?
 
 ## Developer Workflow
 
